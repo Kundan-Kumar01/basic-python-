@@ -1,2 +1,2 @@
-print("python version 9 ")
+print("python v9 ")
 
